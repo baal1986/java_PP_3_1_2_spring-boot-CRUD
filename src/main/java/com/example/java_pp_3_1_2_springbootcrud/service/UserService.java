@@ -1,8 +1,6 @@
 package com.example.java_pp_3_1_2_springbootcrud.service;
 
-
 import com.example.java_pp_3_1_2_springbootcrud.model.User;
-
 import java.util.List;
 
 public interface UserService {
